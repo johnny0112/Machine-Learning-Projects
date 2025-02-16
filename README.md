@@ -44,8 +44,6 @@ The project demonstrates end-to-end data processing, model training, hyperparame
   - **Final Model:**  
     - The custom Random Forest model provided the best performance on the validation and test sets.
 
-Both tasks also include processing of an evaluation dataset (`evaluation.csv`) where predictions are generated and saved in a `results.csv` file.
-
 ---
 
 
